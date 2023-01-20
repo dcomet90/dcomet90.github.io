@@ -31,13 +31,10 @@ url: 'https://dcomet90.github.io'
 
 github:
   username: dcomet90             # change to your github username
-
 twitter:
   username: jimcomet            # change to your twitter username
-
 discord:
   invitelink: aUCBs2hJqX
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -51,7 +48,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/dimitris-komitas-b0435b79/
 
-google_site_verification:               # fill in to your verification string
+#google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
