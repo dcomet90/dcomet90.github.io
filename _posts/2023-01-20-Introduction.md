@@ -14,4 +14,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Homelab is coming
 
-More to see soon
+More to see soon !
