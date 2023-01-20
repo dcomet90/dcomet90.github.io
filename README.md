@@ -1,4 +1,39 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+<div align="center">
+
+  # Chirpy Jekyll Theme
+
+  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+
+  [**Live Demo →**](https://cotes2020.github.io/chirpy-demo)
+
+  ![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)
+
+</div>
+
+## Features provided
+
+- Dark/Light Theme Mode
+- Localized UI language
+- Pinned Posts
+- Hierarchical Categories
+- Trending Tags
+- Table of Contents
+- Last Modified Date of Posts
+- Syntax Highlighting
+- Mathematical Expressions
+- Mermaid Diagram & Flowchart
+- Dark/Light Mode Images
+- Embed Videos
+- Disqus/Utterances/Giscus Comments
+- Search
+- Atom Feeds
+- Google Analytics
+- Page Views Reporting
+- SEO & Performance Optimization
+
+
+
+# Chirpy Starter 
 
 When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
 
