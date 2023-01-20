@@ -21,10 +21,10 @@ timezone: Europe/Athens
 
 title: Jim Comet Documentation                         # the main title
 
-tagline: Dcomet Homelab   # it will display as the sub-title
+tagline: Documentation for DComet Homelab, everything you need to know!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Documentation for DComet Homelab, everything you need to know!
+ Dcomet Homelab
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dcomet90.github.io'
