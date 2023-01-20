@@ -14,4 +14,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Homelab is coming
 
-First of all the monitoring tool is use. CheckMK...awesome!
+First of all the monitoring tool that i use. CheckMK...awesome!
