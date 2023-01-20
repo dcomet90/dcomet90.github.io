@@ -44,9 +44,6 @@ jobs:
         with:
           ruby-version: '3.1' # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
-      
-      - name: Deploy
-        run: bash tools/deploy.sh
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
@@ -72,4 +69,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        
+
