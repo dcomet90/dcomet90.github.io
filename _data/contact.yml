@@ -3,9 +3,19 @@
 -
   type: github
   icon: 'fab fa-github'
+  url: 'https://github.com/dcomet90'
 -
   type: twitter
   icon: 'fab fa-twitter'
+  url: 'https://twitter.com/jimcomet'
+-
+  type: discord
+  icon: 'fab fa-discord'
+  url: 'https://discord.gg/sPadubWx'
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/dimitris-komitas-b0435b79/'
 -
   type: email
   icon: 'fas fa-envelope'
