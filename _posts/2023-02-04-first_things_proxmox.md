@@ -2,7 +2,7 @@
 layout: post
 title: "First things in new Proxmox Server"
 date: 2023-02-04 09:00:00 +0200
-categories: proxmox
+categories: [proxmox]
 tags: homelab proxmox 
 ---
 
