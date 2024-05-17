@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+gem "jekyll-theme-chirpy", "~> 7.0"
 
-gem "rspec", "~> 3.13"
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
